@@ -1,0 +1,26 @@
+.middle{
+    margin-left: 10%;
+    margin-right:10%;
+    padding: 0;
+}
+
+.border-right{
+    border-right: 1vh solid rgb(0, 0, 0);
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.pl-5{
+    padding-left: 5px;
+}
+
+.btn-cyan{
+    color: #000000;
+    background-color: aqua;
+}
+
+
+
+/* pop up  */
+
+
